@@ -1,14 +1,6 @@
 ### Python
-```python
-print("Hello, World!")
-```
-
-### C++
-```cpp
-#include <iostream>
-using namespace std;
-int main() {
-	cout << "Hello, World!" << endl;
-	return 0;
-}
-```
+   
+#### Random Student
+|***Random Student 1.0***|**使用教程**|
+|:---:|:---:|
+|[***v1.0***](https://github.com/works456/works456/releases/download/v1.0/Random.Student.1.0.msi)|**无**|
