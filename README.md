@@ -14,4 +14,4 @@
 
 ### <span style="color:#5F5F5F">其它</span>
 
-[<span style="color:pink">works456-静笔</span>](fiction.md)
+[<span style="color:rgba(247,207,102,0.8)">works456-静笔</span>](fiction.md)
