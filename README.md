@@ -12,5 +12,6 @@
 |:---:|:---:|
 |[***v1.0***](https://github.com/works456/works456/releases/download/Close1.0/Close.1.0.msi)|**无**|
 
-[
-<span style="color:pink">works456-静笔</span>](fiction.md)
+### <span style="color:#5F5F5F">其它</span>
+
+[<span style="color:pink">works456-静笔</span>](fiction.md)
